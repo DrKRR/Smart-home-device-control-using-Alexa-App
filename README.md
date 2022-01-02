@@ -9,4 +9,5 @@ Home automation or domotics refers to automation of a house. Such a system monit
 * DIP Switch
 * Light Emitting Diodes
 * Jumper wires
-* 5V dc source/Power bank
+* 5V dc source/Power bank <br/>
+![image](https://user-images.githubusercontent.com/93868543/147881548-451e8b39-9b70-453f-aa93-617d960fc1eb.png)
