@@ -24,5 +24,5 @@ Home automation or domotics refers to automation of a house. Such a system monit
 </p> </br> 
 
 #### Methodology #####
-The hardware described in this project works at 3.3V, and hence no fear of shock. DIP (**D**ual **I**n-line **P**ackage) switches works as ON-OFF switches.  
+The hardware described in this project works at 3.3V, and hence no fear of shock. DIP (**D**ual **I**n-line **P**ackage) switches works like ON-OFF switches.  The following diagram shows the connection between the NodeMCU ESP8266 board and the other components.
 
