@@ -14,6 +14,7 @@ Home automation or domotics refers to automation of a house. Such a system monit
 <img src="https://user-images.githubusercontent.com/93868543/147882209-c241e171-3533-427d-926d-61b7058990e5.png" width="300" height="200"/>
 <img src="https://user-images.githubusercontent.com/93868543/147898692-0bd91724-eccf-4b94-8c1d-1d51d0c468ec.png" width="250" height="200"/>
 <img src="https://user-images.githubusercontent.com/93868543/147899370-4d228ba3-3638-4f2b-8b92-ea948786a3e5.png" width="250" height="200"/>
-</p> </br>                                                                                                                                       
-![image](https://user-images.githubusercontent.com/93868543/147899370-4d228ba3-3638-4f2b-8b92-ea948786a3e5.png)
+</p> </br>  
+<p float="middle">
+<img src="https://user-images.githubusercontent.com/93868543/147899652-833e8be0-8b51-4dd7-b8e3-13fa776bd8ab.png" width="200" height="150"/>
 
