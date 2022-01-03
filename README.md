@@ -22,7 +22,7 @@ Home automation or domotics refers to automation of a house. Such a system monit
 <img src="https://user-images.githubusercontent.com/93868543/147917665-6c059382-578f-45c8-b292-dcd7af60a987.png" width="70" height="90"/>
 <img src="https://user-images.githubusercontent.com/93868543/147900950-012edf42-3c61-415c-a501-fff5fa815875.png" width="150" height="200"/>
 <img src="https://user-images.githubusercontent.com/93868543/147901282-b6046c91-9ec6-463e-9364-517ac2ce3170.png" width="150" height="200"/>
-</p> </br> 
+</p> <br/> 
 
 #### Methodology #####
 The hardware described in this project works at 3.3V, and hence no fear of shock. DIP (**D**ual **I**n-line **P**ackage) switches works like ON-OFF switches.  The upper half of the first figure below shows the connection between the NodeMCU ESP8266 module and other components like DIP switches and LEDs. In the lower half of the first figure, circuit design pertaining to relays and bulbs working at 230V is also given. The following second diagram shows the photograph of the completed circuit using the second scheme, i.e., without using Amazon Echo. A detailed hardware description is given in the following YouTube video link. </br>
@@ -30,6 +30,7 @@ The hardware described in this project works at 3.3V, and hence no fear of shock
 <img src="https://user-images.githubusercontent.com/93868543/147904390-ce4d5424-259e-4eb6-b810-a2eb19a106e9.png" width="300" height="450"/>
 <img src="https://user-images.githubusercontent.com/93868543/147904742-7e75668f-d40d-4a66-ad0d-3ec16db3b34a.png" width="300" height="450"/>
 </p> </br>
+
 ### SOFTWARE DESCRIPTION ###
 
 
