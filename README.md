@@ -6,8 +6,8 @@ Home automation or domotics refers to automation of a house. Such a system monit
 <img src="https://user-images.githubusercontent.com/93868543/147998092-0f69a151-4c8c-435a-bcc6-a1d5a3320315.png" width="400" height="200"/>
 <img src="https://user-images.githubusercontent.com/93868543/147998936-afdad3c1-49ba-4e9b-8b54-0718a174d013.png" width="250" height="200"/>
 <img src="https://user-images.githubusercontent.com/93868543/147926210-696c11b4-185c-4bac-aa96-1b68e80eee33.png" width="100" height="60"/> 
-</p> <br/>  
-In this project, I am explaining the implementation of home automation system using the second method.<br/>
+</p> </br>
+In this project, I am explaining the implementation of home automation system using the second method. </br>
 ### HARDWARE DESCRIPTION ###
 #### Components required ####
 * NodeMCU ESP8266 Module
