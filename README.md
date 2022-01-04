@@ -4,7 +4,7 @@ The project presents hardware, software and instructions to design home automati
 Home automation or domotics refers to automation of a house. Such a system monitors and (or) controls parameters such as climate, lighting, entertainment, electronic gadgets etc. When it comes to home security, it controls access and alarm systems also. In this project, the home appliances are controlled by Alexa app via internet, thus **I**nternet **o**f **T**hings (IoT). Smart home appliances like fan, bulb, cooler etc. works at 115V/230V ac. Care must be exercised during rigging and testing of the hardware, as there is a chance of getting a shock!<br/> In the following, I describe the hardware and software that simulates the smart home project. Neverthless, it paves way to develop a full fledged **DIY** home automation system. Broadly speaking, home automation can be accomplished by two methods: <br/> (i). using commercially available devices like: Apple Home Kit, Google Nest Hub, Control4, Amazon Alexa echo etc. or <br/> (ii). without using (i), using a microcontroller, SinricPro software and Alexa app. 
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/93868543/147998092-0f69a151-4c8c-435a-bcc6-a1d5a3320315.png" width="400" height="200"/>
-<img src="https://user-images.githubusercontent.com/93868543/147998936-afdad3c1-49ba-4e9b-8b54-0718a174d013.png" width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/93868543/147998936-afdad3c1-49ba-4e9b-8b54-0718a174d013.png" width="300" height="200"/>
 </p> <br/>  
 In this project, I am explaining the implementation of home automation system using the second method.<br/>
 ### HARDWARE DESCRIPTION ###
