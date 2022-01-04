@@ -5,7 +5,7 @@ Home automation or domotics refers to automation of a house. Such a system monit
 <br/> A pictorial representation of these two methods are shown below. 
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/93868543/148007932-ac7d4546-436f-41f4-a2e3-cba5be309b36.png" width="700" height="350"/>
- <!--- <img src="https://user-images.githubusercontent.com/93868543/148009711-a8948e34-7031-4eb4-b26b-b8d448365eaf.png" width="700" height="350"/>--->
+<img src="https://user-images.githubusercontent.com/93868543/148009711-a8948e34-7031-4eb4-b26b-b8d448365eaf.png" width="700" height="350"/>
 </p> </br>
  
 In this project, I am explaining the implementation of home automation system using the second method. </br>
