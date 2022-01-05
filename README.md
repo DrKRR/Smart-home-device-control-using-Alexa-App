@@ -69,7 +69,7 @@ Select *Devices* from the left side menu.Click on *Add Device* button. Enter the
 * Open the Alexa App, press *More* followed by selecting *Skills and Games*.
 * Press the *Sinric Pro*
 * Press on *ENABLE TO USE*
-* Authorize Amazon to access the selected devices by signing in with *email Id* and *Password* used for the Sinric Pro account. 
+* Authorize Amazon to access the selected devices by signing in with *email Id* and *Password* used for the Sinric Pro account.</br> 
 The following figure shows these steps
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148232925-f69e70b2-02e1-415f-b193-a7b3d797fffa.png" width="500" height="300"/>
