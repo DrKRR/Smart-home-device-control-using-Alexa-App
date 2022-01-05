@@ -59,17 +59,17 @@ Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, p
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
-Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
+Select *Devices* from the left side menu.Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
 ###### Connecting Sinric Pro with Alexa App ######
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="300" height="300"/>
 </p> </br>
 
 ###### *Steps to connect Sinric Pro with Alexa App* ###### 
-* Open the Alexa App, press *More* followed by selecting *Skills and Games*.
-* Press the *Sinric Pro*
-* Press on *ENABLE TO USE*
-* Authorize Amazon to access the selected devices by signing in with *email Id* and *Password* used for the Sinric Pro account.</br> 
+* First, open the Alexa App, press *More* followed by selecting *Skills and Games*.
+* Second, press the *Sinric Pro*
+* Third, press on *ENABLE TO USE* and 
+* Fourth, authorize Amazon to access the selected devices by signing in with *email Id* and *Password* used for the Sinric Pro account.</br> 
 The following figure shows these steps
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148232925-f69e70b2-02e1-415f-b193-a7b3d797fffa.png" width="500" height="300"/>
