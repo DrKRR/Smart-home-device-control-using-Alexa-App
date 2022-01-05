@@ -79,4 +79,5 @@ The following figure shows these steps
 * After the creation of account in Sinric Pro press *CLOSE*
 * Now, press the tab: *DISCOVER DEVICES*
 * Alexa App takes some time to discover the devices that were added in the Sinric Pro (in the above steps)
-* Now, press the *Devices* <img src="https://user-images.githubusercontent.com/93868543/148247135-aeee1571-ffea-4bf1-8b0e-b30ed1d7b83a.png" width="30" height="30"/>
+* Now, press the *Devices* <img src="https://user-images.githubusercontent.com/93868543/148247135-aeee1571-ffea-4bf1-8b0e-b30ed1d7b83a.png" width="30" height="30"/> at the bottom of the Appand press *PLUGS* . </br>
+##### *All the Selected Devices will be opened in the Alexa App on the Mobile* #####
