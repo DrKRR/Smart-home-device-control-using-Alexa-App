@@ -64,6 +64,6 @@ Select *Devices* from the left side menu.Click on *Add Device* button. Enter the
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="300" height="300"/>
 </p> </br>
- 
+###### *Steps to connect Sinric Pro with Alexa App* ###### 
 
 
