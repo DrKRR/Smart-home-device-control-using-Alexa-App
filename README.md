@@ -42,4 +42,9 @@ The hardware described in this project works at 3.3V, and hence no fear of shock
 
 ### SOFTWARE DESCRIPTION ###
 Software plays an important role in this project.It has the following three parts: 
-<!--- This is comment. wont be visible ---> #### Part-I: #### Program development in Arduino environment in order to interface and control LEDs and switches with the digital Input/Output (DIO) pins of the ESP8266 module.
+<!--- This is comment. wont be visible --->
+#### Part-I: #### 
+Program development in Arduino environment in order to interface and control LEDs and switches with the digital Input/Output (DIO) pins of the ESP8266 module. Parameters that need to be used in the main program include: </br>
+* (a). WiFi Credentials (Network name, Password) </br>
+* (b). APP_KEY and APP_SECRET_CODE </br>
+* (c). Device IDs corresponding to the voice control </br>
