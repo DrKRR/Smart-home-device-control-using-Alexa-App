@@ -75,3 +75,7 @@ Select *Devices* from the left side menu.Click on *Add Device* button. Enter the
 </p> </br>
  
 ###### *Steps to add Devices to Alexa App* ###### 
+* After the creation of account in Sinric Pro press *CLOSE*
+* Now, press the tab:*DISCOVER DEVICES*
+* Alexa App takes some time to discover the devices that were added in the Sinric Pro (in the above steps)
+* Now, press the 
