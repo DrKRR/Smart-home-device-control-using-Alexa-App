@@ -46,6 +46,6 @@ Software plays an important role in this project.It has the following three part
 Program development in Arduino environment in order to interface and control LEDs and switches with the digital Input/Output (DIO) pins of the ESP8266 module. Parameters that need to be used in the main program include: 
 * (a). WiFi Credentials (Network name, Password) </br>
 * (b). APP_KEY and APP_SECRET_CODE </br>
-* (c). Device IDs corresponding to the voice control <br/>
+* (c). Device IDs corresponding to the voice control </br>
 The first parameter (a) is user known. The second and third parameters (b and c) needs to obtained from Sinric Pro. 
 #### Part-II: ####
