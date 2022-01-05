@@ -62,8 +62,8 @@ Click on *Save* button. In this way you can create number of rooms like: Living 
 Select *Devices* from the left side menu.Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
 ###### Connecting Sinric Pro with Alexa App ######
 <p float="middle">
-<img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="70" height="90"/>
- </p> </br>
+<img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="300" height="450"/>
+</p> </br>
  
 
 
