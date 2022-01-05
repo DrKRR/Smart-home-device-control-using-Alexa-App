@@ -47,5 +47,6 @@ Program development in Arduino environment in order to interface and control LED
 * (a). WiFi Credentials (Network name, Password) </br>
 * (b). APP_KEY and APP_SECRET_CODE </br>
 * (c). Device IDs corresponding to the voice control </br>
+
 The first parameter (a) is user known. The second and third parameters (b and c) needs to obtained from Sinric Pro. 
 #### Part-II: ####
