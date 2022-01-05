@@ -59,7 +59,7 @@ Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, p
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
-Select *Devices* from the left side menu.Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
+Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
 ###### Connecting Sinric Pro with Alexa App ######
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="300" height="300"/>
@@ -77,6 +77,6 @@ The following figure shows these steps
  
 ###### *Steps to add Devices to Alexa App* ###### 
 * After the creation of account in Sinric Pro press *CLOSE*
-* Now, press the tab:*DISCOVER DEVICES*
+* Now, press the tab: *DISCOVER DEVICES*
 * Alexa App takes some time to discover the devices that were added in the Sinric Pro (in the above steps)
 * Now, press the 
