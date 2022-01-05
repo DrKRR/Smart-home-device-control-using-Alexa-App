@@ -55,5 +55,5 @@ This part pertains to entering the above parameters to Amazon Alexa after downlo
 In order to get the parameters mentioned in (b) and (c) above, account needs to be created in Sinric Pro. After creating the account successfully, Sinric Pro presents APP_KEY, APP_SECRET_CODE and unique Device IDs. As they are lengthy strings having alphabetics and numerals, they need to be copied and pasted in the main progrm.</br>
 Let us take a bottom-up approach  
 ###### Create an account in Siric Pro first ######
-Open the [website] (portal.sinric.pro/register)
+Open the website [(https://portal.sinric.pro/register)]
 
