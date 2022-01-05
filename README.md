@@ -74,3 +74,4 @@ Select *Devices* from the left side menu.Click on *Add Device* button. Enter the
 <img src="https://user-images.githubusercontent.com/93868543/148232925-f69e70b2-02e1-415f-b193-a7b3d797fffa.png" width="500" height="300"/>
 </p> </br>
  
+###### *Steps to add Devices to Alexa App* ###### 
