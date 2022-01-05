@@ -50,3 +50,7 @@ Program development in Arduino environment in order to interface and control LED
 
 The first parameter (a) is user known. The second and third parameters (b and c) needs to obtained from Sinric Pro. 
 #### Part-II: ####
+Entering the above parameters to Amazon Alexa after downloading and installing the app on the mobile from Google play store.</br>
+#### Part-III: ####
+To get the parameters mentioned in (b) and (c) above, account needs to be created in Sinric Pro. After creating the account successfully, Sinric Pro presents APP_KEY, APP_SECRET_CODE and unique Device IDs. As they are lengthy strings having alphabetics and numerals, they need to be copied and pasted in the main progrm.
+Let us take a bottom-up approach.
