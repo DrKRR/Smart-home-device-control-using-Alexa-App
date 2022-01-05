@@ -57,6 +57,6 @@ Let us take a bottom-up approach
 ###### Create an account in Siric Pro first ######
 Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, password etc. and click on Register.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
-Create room in Sinric Pro by selecting Rooms in the left side menu. Click on Add Room button. Enter the Room Name and its description.</br>
+Create room in Sinric Pro by selecting Rooms in the left side menu. Click on Add Room button. Enter the Room Name and its description.
 Click on Save button.
 
