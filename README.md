@@ -55,14 +55,16 @@ The first parameter (a) is user known. The second and third parameters (b and c)
 This part pertains to entering the above parameters to Amazon Alexa after downloading and installing the app on the mobile from Google play store.</br>
 #### Part-III: ####
 In order to get the parameters mentioned in (b) and (c) above, account needs to be created in Sinric Pro. After creating the account successfully, Sinric Pro presents APP_KEY, APP_SECRET_KEY and unique Device IDs. As they are lengthy strings having alphabetics and numerals, they need to be copied and pasted in the main progrm.</br>
-Let us take a bottom-up approach  
-###### Create an account in Sinric Pro first ######
+
+Let us take a bottom-up approach 
+
+###### Creating an account in Sinric Pro ######
 Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
 
 
-###### Create Rooms and  Devices in Sinric Pro ######
+###### Creating Rooms and  Devices in Sinric Pro ######
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
 Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. Snapshots of monitor corresponding to display of the keys, Rooms, Devices are shown in the following figures.</br>
