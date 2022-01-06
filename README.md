@@ -65,6 +65,7 @@ Open the following website:
 Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric Pro by entering email address and password after opening the following website: 
 <p align = "center">  [(https://portal.sinric.pro/login)] </p>
+
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
 
 
