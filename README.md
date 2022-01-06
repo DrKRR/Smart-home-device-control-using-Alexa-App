@@ -58,7 +58,7 @@ In order to get the parameters mentioned in (b) and (c) above, account needs to 
 
 Let us take a bottom-up approach 
 
-<font "color=red"> Creating an account in Sinric Pro </font>
+<b style 'color:red'> Creating an account in Sinric Pro </b>
 
 ###### Creating an account in Sinric Pro ######
 Open the following website: 
