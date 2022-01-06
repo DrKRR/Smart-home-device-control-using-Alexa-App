@@ -68,7 +68,8 @@ The monitor snapshots of the keys, Rooms, Devices are shown in the following fig
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
 Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
-<p align="center">
+<p float="middle">
+<img src="https://user-images.githubusercontent.com/93868543/148372019-dd6e4705-7e20-4d90-a3dc-46ec5d908877.png" width="400" height="450"/>
 <img src="https://user-images.githubusercontent.com/93868543/148387270-70f70ebe-aa20-40c1-a204-3f2ceb9e260e.png" width="400" height="450"/>
 </p> </br>
  
