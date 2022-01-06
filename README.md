@@ -88,4 +88,4 @@ All the above steps are shown diagramatically below:
 <img src="https://user-images.githubusercontent.com/93868543/148248940-1254c33b-3b45-4c71-87b5-8ed89c06a931.png" width="800" height="500"/>
 </p> </br>
 
-Now, let us turn our attention towards successful program development using the developed hardware and apps. As mentioned earlier, the program is developed in the Arduino environment. 
+Now, let us turn our attention towards successful program development using the developed hardware and apps. As mentioned earlier, the program is developed in the Arduino environment. Steps involved in the program development are given below:
