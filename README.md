@@ -60,6 +60,8 @@ Let us take a bottom-up approach
 Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
+The monitor snapshot of the key display is shown in the following figure.
+
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
 Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
