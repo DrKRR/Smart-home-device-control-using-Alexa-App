@@ -93,5 +93,7 @@ Now, let us turn our attention towards successful program development using the 
  
   ##### *Arduino.h,  ESP8266WiFi.h ,  SinricPro.h, SinricProSwitch.h* #### 
 * Add WiFi Credentials
+* Add *APP_KEY, APP_SECRET_KEY, device_IDs*
+* Define *DIO Pins of ESP8266, Switches, Relay Pins (Optional)*
 * 
 
