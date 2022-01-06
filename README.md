@@ -22,10 +22,9 @@ In this project, I am explaining the implementation of home automation system us
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/93868543/147882209-c241e171-3533-427d-926d-61b7058990e5.png" width="200" height="150"/>
 <img src="https://user-images.githubusercontent.com/93868543/147898692-0bd91724-eccf-4b94-8c1d-1d51d0c468ec.png" width="150" height="150"/>
- 
- Now, we shall turn our attention towards program development that makes the above hardware and apps work successfully.
 <img src="https://user-images.githubusercontent.com/93868543/147899370-4d228ba3-3638-4f2b-8b92-ea948786a3e5.png" width="250" height="200"/>
 </p> </br>  
+
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/93868543/147899652-833e8be0-8b51-4dd7-b8e3-13fa776bd8ab.png" width="70" height="90"/>
 <img src="https://user-images.githubusercontent.com/93868543/147900345-c32a8b87-0fc6-401e-823e-9f58486c8536.png" width="70" height="90"/>
@@ -35,6 +34,7 @@ In this project, I am explaining the implementation of home automation system us
 <img src="https://user-images.githubusercontent.com/93868543/147901282-b6046c91-9ec6-463e-9364-517ac2ce3170.png" width="150" height="200"/>
 </p> <br/> 
 
+Now, we shall turn our attention towards program development that makes the above hardware and apps work successfully.
 #### Methodology #####
 The hardware described in this project works at 3.3V, and hence no fear of shock. DIP (**D**ual **I**n-line **P**ackage) switches works like ON-OFF switches.  The upper half of the first figure below shows the connection between the NodeMCU ESP8266 module and other components like DIP switches and LEDs. In the lower half of the first figure, circuit design pertaining to relays and bulbs working at 115/230V is also given. The following second diagram shows the photograph of the completed circuit using the second scheme, i.e., without using Amazon Echo. A detailed hardware description is given in the following YouTube video link. </br>
 <p float="middle">
