@@ -22,6 +22,8 @@ In this project, I am explaining the implementation of home automation system us
 <p float="middle">
 <img src="https://user-images.githubusercontent.com/93868543/147882209-c241e171-3533-427d-926d-61b7058990e5.png" width="200" height="150"/>
 <img src="https://user-images.githubusercontent.com/93868543/147898692-0bd91724-eccf-4b94-8c1d-1d51d0c468ec.png" width="150" height="150"/>
+ 
+ Now, we shall turn our attention towards program development that makes the above hardware and apps work successfully.
 <img src="https://user-images.githubusercontent.com/93868543/147899370-4d228ba3-3638-4f2b-8b92-ea948786a3e5.png" width="250" height="200"/>
 </p> </br>  
 <p float="middle">
