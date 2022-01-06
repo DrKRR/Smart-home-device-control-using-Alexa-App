@@ -60,7 +60,9 @@ Let us take a bottom-up approach
 
 ###### Creating an account in Sinric Pro ######
 Open the following website: 
-<p align = "centre"> [(https://portal.sinric.pro/register)] </p>. 
+<p align = "centre"> 
+ [(https://portal.sinric.pro/register)] 
+</p>. </br>
 Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
