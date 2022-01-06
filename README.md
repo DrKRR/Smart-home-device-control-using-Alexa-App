@@ -92,4 +92,6 @@ Now, let us turn our attention towards successful program development using the 
 * Initialize the program by adding the following header files by selecting *Tools* in the Arduino sketch followed by *Manage Libraries* and  *Library Manager*:
  
   ##### *Arduino.h,  ESP8266WiFi.h ,  SinricPro.h, SinricProSwitch.h* #### 
+* Add WiFi Credentials
 * 
+
