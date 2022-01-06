@@ -62,7 +62,7 @@ Log in to Sinric by entering email address and password after opening the websit
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
 The monitor snapshot of the key display is shown in the following figure.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148369877-2693b578-f2db-438c-9972-96966fbd346c.png" width="300" height="450"/>
+<img src="https://user-images.githubusercontent.com/93868543/148369877-2693b578-f2db-438c-9972-96966fbd346c.png" width="400" height="450"/>
 </p> </br>
 
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
@@ -70,7 +70,7 @@ Click on *Save* button. In this way you can create number of rooms like: Living 
 Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
 ###### Connecting Sinric Pro with Alexa App ######
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="800" height="500"/>
+<img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="400" height="250"/>
 </p> </br>
 ###### *Steps to connect Sinric Pro with Alexa App* ###### 
 * First, open the Alexa App, press *More* followed by selecting *Skills and Games*.
