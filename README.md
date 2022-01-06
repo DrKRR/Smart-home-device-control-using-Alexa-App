@@ -72,6 +72,7 @@ Select *Devices* from the left side menu. Click on *Add Device* button. Enter th
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148223393-315c9848-fb0a-4888-bc87-8647f64d5271.png" width="400" height="250"/>
 </p> </br>
+
 ###### *Steps to connect Sinric Pro with Alexa App* ###### 
 * First, open the Alexa App, press *More* followed by selecting *Skills and Games*.
 * Second, press the *Sinric Pro*
