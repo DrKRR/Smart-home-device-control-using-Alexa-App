@@ -47,19 +47,19 @@ Software plays an important role in this project. It has the following three par
 #### Part-I: #### 
 In this part, a program is developed in Arduino environment in order to interface and control LEDs and switches with the digital Input/Output (DIO) pins of the ESP8266 module. Parameters that need to be used in the main program include: 
 * (a). WiFi Credentials (Network name, Password) </br>
-* (b). APP_KEY and APP_SECRET_CODE </br>
+* (b). APP_KEY and APP_SECRET_KEY </br>
 * (c). Device IDs corresponding to the voice control </br>
 
 The first parameter (a) is user known. The second and third parameters (b and c) needs to obtained from the Sinric Pro. 
 #### Part-II: ####
 This part pertains to entering the above parameters to Amazon Alexa after downloading and installing the app on the mobile from Google play store.</br>
 #### Part-III: ####
-In order to get the parameters mentioned in (b) and (c) above, account needs to be created in Sinric Pro. After creating the account successfully, Sinric Pro presents APP_KEY, APP_SECRET_CODE and unique Device IDs. As they are lengthy strings having alphabetics and numerals, they need to be copied and pasted in the main progrm.</br>
+In order to get the parameters mentioned in (b) and (c) above, account needs to be created in Sinric Pro. After creating the account successfully, Sinric Pro presents APP_KEY, APP_SECRET_KEY and unique Device IDs. As they are lengthy strings having alphabetics and numerals, they need to be copied and pasted in the main progrm.</br>
 Let us take a bottom-up approach  
 ###### Create an account in Sinric Pro first ######
 Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
-Click on *Credentials* and make note of *APP_KEY* and *APP_KEY_SECRET*. I am re-naming *APP_KEY_SECRET* as *APP_SECRET_CODE*. </br>
+Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
 Click on *Save* button. In this way you can create number of rooms like: Living Room, Bath Room, Kitchen etc. Sinric Pro gives an oppurtunity to add three devices free of cost.
 Select *Devices* from the left side menu. Click on *Add Device* button. Enter the *Device Name* and its *Description*. Select the *Device Type*. Also, select the *Room* for the device and click *Next*. I stopped selection of parameters at this point. Also, there are optional parameters like: *Timer*, *Energy usage* etc. </br>
