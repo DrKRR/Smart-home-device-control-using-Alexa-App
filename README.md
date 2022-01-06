@@ -62,7 +62,7 @@ Log in to Sinric by entering email address and password after opening the websit
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
 The monitor snapshot of the key display is shown in the following figure.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148369877-2693b578-f2db-438c-9972-96966fbd346c.png" width="400" height="450"/>
+<img src="https://user-images.githubusercontent.com/93868543/148372019-dd6e4705-7e20-4d90-a3dc-46ec5d908877.png" width="400" height="450"/>
 </p> </br>
 
 Create room in Sinric Pro by selecting *Rooms* in the left side menu. Click on *Add Room* button. Enter the Room Name and its description.
