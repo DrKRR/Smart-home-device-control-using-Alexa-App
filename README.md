@@ -58,7 +58,8 @@ In order to get the parameters mentioned in (b) and (c) above, account needs to 
 
 Let us take a bottom-up approach 
 
-<p style="color=red"> Creating an account in Sinric Pro </p>
+<font "color=red"> Creating an account in Sinric Pro </font>
+
 ###### Creating an account in Sinric Pro ######
 Open the following website: 
 <p align = "center">  [(https://portal.sinric.pro/register)] </p>
