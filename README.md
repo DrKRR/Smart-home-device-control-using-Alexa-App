@@ -60,7 +60,7 @@ Let us take a bottom-up approach
 Open the website [(https://portal.sinric.pro/register)]. Enter name, email ID, password etc. and click on *Register*.</br>
 Log in to Sinric by entering email address and password after opening the website: [(https://portal.sinric.pro/login)].</br>
 Click on *Credentials* and make note of *APP_KEY* and *APP_SECRET*. I am re-naming *APP_SECRET* as *APP_SECRET_KEY*. </br>
-The monitor snapshot of the key display is shown in the following figure.
+The monitor snapshots of the keys, Rooms, Devices are shown in the following figures.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93868543/148372019-dd6e4705-7e20-4d90-a3dc-46ec5d908877.png" width="400" height="450"/>
 </p> </br>
