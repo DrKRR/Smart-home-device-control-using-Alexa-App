@@ -79,7 +79,7 @@ Select *Devices* from the left side menu. Click on *Add Device* button. Enter th
 * Fourth, authorize Amazon to access the selected devices by signing in with *email Id* and *Password* used for the Sinric Pro account.</br> 
 The following figure shows these steps
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148232925-f69e70b2-02e1-415f-b193-a7b3d797fffa.png" width="800" height="500"/>
+<img src="https://user-images.githubusercontent.com/93868543/148232925-f69e70b2-02e1-415f-b193-a7b3d797fffa.png" width="800" height="400"/>
 </p> </br>
  
 ###### *Steps to add Devices to Alexa App* ###### 
@@ -90,7 +90,7 @@ The following figure shows these steps
 ##### *All the Selected Devices will be opened in the Alexa App on the Mobile* #####
 All the above steps are shown diagramatically below:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148248940-1254c33b-3b45-4c71-87b5-8ed89c06a931.png" width="800" height="500"/>
+<img src="https://user-images.githubusercontent.com/93868543/148248940-1254c33b-3b45-4c71-87b5-8ed89c06a931.png" width="800" height="400"/>
 </p> </br>
 
 Now, let us turn our attention towards successful program development using the developed hardware and apps. As mentioned earlier, the program is developed in the Arduino environment. Steps involved in the program development are given below:
