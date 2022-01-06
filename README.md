@@ -95,5 +95,6 @@ Now, let us turn our attention towards successful program development using the 
 * Add WiFi Credentials
 * Add *APP_KEY, APP_SECRET_KEY, device_IDs*
 * Define *DIO Pins of ESP8266, Switches, Relay Pins (Optional)*
-* 
+* Other details are given in the program and video descriptions
+
 
