@@ -89,5 +89,5 @@ All the above steps are shown diagramatically below:
 </p> </br>
 
 Now, let us turn our attention towards successful program development using the developed hardware and apps. As mentioned earlier, the program is developed in the Arduino environment. Steps involved in the program development are given below:
-* Initialize the program by adding the following header files:
+* Initialize the program by adding the following header files by selecting *Tools* in the Arduino sketch followed by *Manage Libraries* and  *Library Manager*:
 * 
