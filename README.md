@@ -3,6 +3,7 @@ The project presents hardware, software and instructions to design home automati
 </br>
 
 <img src="https://user-images.githubusercontent.com/93868543/148485885-ae03d4eb-bb92-4ab2-a02f-7b0f429c1cf0.png" width="5" height="3"/>
+
 </br>     
  
 ### INTRODUCTION ###
