@@ -1,6 +1,5 @@
 # Smart-home-device-control-using-Alexa-App
 The project presents hardware, software and instructions to design home automation that paves way to develop a full fledged **D**o **I**t **Y**ourself (DIY) home automation system.  The hardware is designed around tiny NodeMCU ESP8266 board with inexpensive components and software developed in the Arduino environment. Alexa App<img src="https://user-images.githubusercontent.com/93868543/147926210-696c11b4-185c-4bac-aa96-1b68e80eee33.png" width="50" height="30"/>  is used on Mobile to control the home automation system. Alternately, Google Assistant can also be used <img src="https://user-images.githubusercontent.com/93868543/147928681-60e59a9e-781f-425b-be5d-c417176b067e.png" width="50" height="30"/>. </br>
-
 <img src="https://user-images.githubusercontent.com/93868543/148485885-ae03d4eb-bb92-4ab2-a02f-7b0f429c1cf0.png" width="200" height="45"/>
 </br> 
 
