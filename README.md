@@ -120,5 +120,7 @@ Now, let us turn our attention towards successful program development using the 
   
  # Color Test Document
  ## Second Heading #
-<font size="+1" color="red">larger red words</font>
+<font size="+1" color="red">
+ larger red words
+    </font>
 
