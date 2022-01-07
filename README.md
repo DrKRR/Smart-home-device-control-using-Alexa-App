@@ -44,7 +44,9 @@ The hardware described in this project works at 3.3V, and hence no fear of shock
 <img src="https://user-images.githubusercontent.com/93868543/147904742-7e75668f-d40d-4a66-ad0d-3ec16db3b34a.png" width="300" height="450"/>
 </p> </br>
 
-### SOFTWARE DESCRIPTION ###
+<img src="https://user-images.githubusercontent.com/93868543/148495213-b4533357-a062-498e-b670-cd138196d89f.png" width="300" height="45"/>
+ 
+<!---### SOFTWARE DESCRIPTION ###--->
 Software plays an important role in this project. It has the following three parts: 
 #### Part-I: #### 
 In this part, a program is developed in Arduino environment in order to interface and control LEDs and switches with the digital Input/Output (DIO) pins of the ESP8266 module. Parameters that need to be used in the main program include: 
