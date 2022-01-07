@@ -116,6 +116,11 @@ Now, let us turn our attention towards successful program development using the 
 * Add *APP_KEY, APP_SECRET_KEY, device_IDs*
 * Define *DIO Pins of ESP8266, Switches, Relay Pins (Not in this project)*
 * Other details are given in the program and video descriptions
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/93868543/148552236-5819ab85-76f1-4a08-a682-3e9b77ece0c8.png" width="800" height="400"/>
+</p> </br>
+ 
 <!--- <style>
  H1{color:Blue !important;}
   H2{color:DarkOrange !important;}
