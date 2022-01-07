@@ -116,18 +116,16 @@ Now, let us turn our attention towards successful program development using the 
 * Add *APP_KEY, APP_SECRET_KEY, device_IDs*
 * Define *DIO Pins of ESP8266, Switches, Relay Pins (Not in this project)*
 * Other details are given in the program and video descriptions
-<style>
+<!--- <style>
  H1{color:Blue !important;}
   H2{color:DarkOrange !important;}
    p{color:Black !important;}
      </style>
-  
  # Color Test Document
  ## Second Heading #
 <font size="+1" color="red">
  larger red words
     </font>
-    
-# 2014, The year of [Blue](#)
+ # 2014, The year of [Blue](#) --->
 
 
