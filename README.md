@@ -125,7 +125,7 @@ Now, let us turn our attention towards successful program development using the 
 </p> </br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93868543/148673737-46819959-6951-4340-ae0d-dbf436d54d30.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/93868543/148675636-3a435536-0294-4568-8beb-af1310e815bc.png" width="800" height="400"/>
 </p> </br>
 
 The web link for the video description is given below:
