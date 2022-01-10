@@ -12,7 +12,7 @@
 //Enter your Sinric Pro Credentials here
 
 #define APP_KEY           "Enter your Sinric Pro APP_KEY  here" 
-#define APP_SECRET     "Enter your APP_SECRET_CODE  here"
+#define APP_SECRET        "Enter your APP_SECRET_CODE  here"
 
 //Enter your device_IDs here
 
